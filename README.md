@@ -4,7 +4,7 @@
 
 [![Language](https://img.shields.io/badge/language-SQL-blue.svg)](https://en.wikipedia.org/wiki/SQL)
 [![Platform](https://img.shields.io/badge/platform-SQL%20Server-CC2927.svg)](https://www.microsoft.com/en-us/sql-server)
-[![Problems](https://img.shields.io/badge/problems-70%2B-red.svg)](https://github.com/YahYa-mzn/SQL-Fundamental-Queries)
+[![Problems](https://img.shields.io/badge/problems-80%2B-red.svg)](https://github.com/YahYa-mzn/SQL-Fundamental-Queries)
 [![Databases](https://img.shields.io/badge/databases-2-green.svg)](https://github.com/YahYa-mzn/SQL-Fundamental-Queries)
 [![Purpose](https://img.shields.io/badge/purpose-Learning%20%26%20Practice-orange.svg)](https://github.com/YahYa-mzn/SQL-Fundamental-Queries)
 
